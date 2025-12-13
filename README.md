@@ -2,16 +2,17 @@
 
 💫 **About Me**
 
-👋 Hello! I'm **Yash**, a computer engineering student passionate about building real-world software and exploring how technology works under the hood.
+👋 Hello! I'm **Yash**, an **Electronics & Telecommunication Engineering (EXTC)** student with a strong interest in software development and system-level thinking.
 
-💻 I’m focused on **full-stack web development**, with a growing interest in backend systems, APIs, and scalable architectures.
+🔌 My academic background in electronics, signals, and communication systems helps me approach problems analytically, while software allows me to turn ideas into real, working products.
 
-⚙️ I work primarily with the **MERN stack** and enjoy structuring applications, designing databases, and thinking in terms of system flow rather than just UI.
+💻 I’m focused on **full-stack web development**, with a growing inclination toward **backend development**, APIs, and scalable system design.
 
-📚 Alongside development, I actively practice **Data Structures & Algorithms** to strengthen my problem-solving skills and core computer science fundamentals.
+⚙️ I actively work with the **MERN stack**, building applications that involve authentication, databases, and real-world workflows.
 
-🚀 I believe in learning by building. I enjoy working on MVPs, startup-style projects, and experimenting with new technologies beyond tutorials.
+📚 I also practice **Data Structures & Algorithms** to strengthen problem-solving skills and core computer science fundamentals.
 
+🚀 I believe in learning by building—working on MVPs, startup-style projects, and practical applications beyond theory.
 ---
 
 🌐 **Socials**
