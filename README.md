@@ -17,7 +17,7 @@
 
 🌐 **Socials**
 
-[LinkedIn](www.linkedin.com/in/yash-khetan-68947531a) • [GitHub](https://github.com/Yash-Khetan) • [X (Twitter)](https://x.com/__justbecool__) • [Email](khetanyash68@gmail.com)
+[LinkedIn](www.linkedin.com/in/yash-khetan-68947531a) • [GitHub](https://github.com/Yash-Khetan) • [Email](khetanyash68@gmail.com)
 
 ---
 
