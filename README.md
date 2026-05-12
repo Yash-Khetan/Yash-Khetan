@@ -44,72 +44,99 @@ status      : Building in public 🚀
 
 ## `$ cat tech_stack.json`
 
-### ⚡ Backend — Core Domain
+<table>
+<tr>
+<td valign="top" width="50%">
 
-```
-Node.js · Express.js · FastAPI · Spring Boot
-PostgreSQL · MongoDB · Redis · BullMQ
-Drizzle ORM · Prisma · Neon DB
-JWT Auth · RBAC · Idempotency Keys
-RESTful APIs · Queue-based Architecture
-```
+### 🖥️ Backend Runtime & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+</td>
+<td valign="top" width="50%">
 
-### 🤖 AI / LLM Stack
+### 🗄️ Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-```
-RAG Pipelines · LangChain · Vector Embeddings
-Document Analysis · Prompt Engineering
-Python · Jupyter · BPSK/QPSK BER Simulation
-GNU Radio · Simulink Signal Processing
-```
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+### ⚙️ Backend Patterns & Infrastructure
+![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=for-the-badge&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![Neon DB](https://img.shields.io/badge/Neon_DB-00E599?style=for-the-badge&logo=neon&logoColor=black)
+
+</td>
+<td valign="top" width="50%">
+
+### 🤖 AI / LLM Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
 ### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-```
-React.js · Tailwind CSS · HTML5 · CSS3
-JavaScript ES6+ · Vite · shadcn/ui
-```
+</td>
+<td valign="top" width="50%">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+### 🧠 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🛠 Languages & Tools
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### 📡 Signals & Hardware (EXTC)
+![GNU Radio](https://img.shields.io/badge/GNU_Radio-2E8B57?style=for-the-badge&logo=gnu&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Multisim](https://img.shields.io/badge/NI_Multisim-00C7B7?style=for-the-badge&logo=nationalinstruments&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+### 🛠️ Dev Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## `$ ls -la projects/`
-
-### 🏦 SAR Guardian — AML Compliance Platform
-> *Production-grade Anti-Money Laundering backend system*
-
-```
-Stack : Fastify · Drizzle ORM · Neon DB · JWT · RBAC
-Focus : Suspicious activity reporting · Multi-role access control
-       Full audit trail · Secure session management
-```
-
----
 
 ### 🧠 DocuMind — RAG Document Intelligence
 > *Upload documents. Ask questions. Get precise answers.*
@@ -167,33 +194,6 @@ Focus : GST invoice parsing · Contract analysis
 
 ---
 
-### 🌟 Lumina — Proactive Academic Assistant *(Hackathon — 24hr)*
-> *AI-powered mobile app that surfaces what you need before you ask*
-
-```
-Stack : Expo (React Native) · Neon DB · Express · RAG pipeline
-Event : 24-hour hackathon build
-Focus : Proactive nudges · Context-aware study suggestions
-```
-
----
-
-## `$ cat signals_meets_software.md`
-
-> Unlike most software engineers, I think in **signals, systems, and noise margins** before I write code.
-
-```
-ADC Lab Work    → AM/FM modulation · GNU Radio flowgraphs · UDP signal chains
-DSP             → Sampling & reconstruction · BPSK/QPSK BER analysis
-Digital Comms   → Line coding · Cyclic codes · Gram-Schmidt orthogonalization
-Hardware        → BC547 PAM sampling circuits · Photodiode interfacing
-Simulation      → Simulink · Multisim · Python/Jupyter BER analysis
-```
-
-**This crossover is the edge** — I model packet loss like channel noise, design queues like filters, and debug latency like signal degradation.
-
----
-
 ## `$ github stats --detailed`
 
 <div align="center">
@@ -228,7 +228,7 @@ Simulation      → Simulink · Multisim · Python/Jupyter BER analysis
 ```bash
 [▓▓▓▓▓▓▓▓░░]  Invoice/GST Extractor → pitching to Mumbai CAs
 [▓▓▓▓▓░░░░░]  GSSoC 2025 Contributions → open source
-[▓▓▓▓▓▓▓▓▓▓]  Barclays Internship Prep → Summer 2026
+[▓▓▓▓▓▓▓▓▓▓]  Barclays Internship Prep → Summer 2027
 [▓▓▓▓▓▓░░░░]  ADC Lab Exams → GNU Radio · BPSK · Cyclic Codes
 ```
 
