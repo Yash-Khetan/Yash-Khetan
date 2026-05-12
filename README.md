@@ -13,7 +13,7 @@
    ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Engineer+%7C+EXTC+%40+SPIT+Mumbai;Building+Fintech+%2B+LLM-powered+Systems;Barclays+Summer+Intern+%27;Node.js+%7C+FastAPI+%7C+PostgreSQL+%7C+Redis;Signals+%2B+Code+%3D+Uncommon+Stack" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Engineer+%7C+EXTC+%40+SPIT+Mumbai;Building+Fintech+%2B+LLM-powered+Systems;Barclays+Summer+Intern+%2727;Node.js+%7C+FastAPI+%7C+PostgreSQL+%7C+Redis;Signals+%2B+Code+%3D+Uncommon+Stack" alt="Typing SVG" />
 
 <br/>
 
