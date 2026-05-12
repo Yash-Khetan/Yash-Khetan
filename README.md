@@ -13,7 +13,7 @@
    ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Engineer+%7C+EXTC+%40+SPIT+Mumbai;Building+Fintech+%2B+LLM-powered+Systems;Barclays+Summer+Intern+%2726;Node.js+%7C+FastAPI+%7C+PostgreSQL+%7C+Redis;Signals+%2B+Code+%3D+Uncommon+Stack" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Engineer+%7C+EXTC+%40+SPIT+Mumbai;Building+Fintech+%2B+LLM-powered+Systems;Barclays+Summer+Intern+%27;Node.js+%7C+FastAPI+%7C+PostgreSQL+%7C+Redis;Signals+%2B+Code+%3D+Uncommon+Stack" alt="Typing SVG" />
 
 <br/>
 
@@ -32,7 +32,7 @@
 name        : Yash Khetan
 role        : Backend Engineer · EXTC Student · Builder
 education   : B.E. Electronics & Telecom · SPIT Mumbai · 2nd Year · Strong GPA
-internship  : Barclays · Summer 2026
+internship  : Barclays · Summer 2027
 focus       : Scalable APIs · Fintech Systems · LLM-integrated Apps
 location    : Mumbai, India
 status      : Building in public 🚀
@@ -229,7 +229,6 @@ Focus : GST invoice parsing · Contract analysis
 [▓▓▓▓▓▓▓▓░░]  Invoice/GST Extractor → pitching to Mumbai CAs
 [▓▓▓▓▓░░░░░]  GSSoC 2025 Contributions → open source
 [▓▓▓▓▓▓▓▓▓▓]  Barclays Internship Prep → Summer 2027
-[▓▓▓▓▓▓░░░░]  ADC Lab Exams → GNU Radio · BPSK · Cyclic Codes
 ```
 
 ---
