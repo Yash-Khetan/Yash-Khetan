@@ -53,7 +53,6 @@ status      : Building in public 🚀
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 
 </td>
 <td valign="top" width="50%">
@@ -82,7 +81,6 @@ status      : Building in public 🚀
 
 ### 🤖 AI / LLM Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
@@ -183,17 +181,6 @@ Focus : Triggers · Transactions · Stored procedures
 
 ---
 
-### 📄 Invoice & GST Data Extractor *(In Progress)*
-> *AI-powered document automation for CAs and consultants*
-
-```
-Stack : Python · FastAPI · React · LLM integration
-Focus : GST invoice parsing · Contract analysis
-       Structured extraction · Mumbai SMB market
-```
-
----
-
 ## `$ github stats --detailed`
 
 <div align="center">
@@ -220,16 +207,6 @@ Focus : GST invoice parsing · Contract analysis
 [![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Khetan&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-## `$ cat currently_shipping.md`
-
-```bash
-[▓▓▓▓▓▓▓▓░░]  Invoice/GST Extractor → pitching to Mumbai CAs
-[▓▓▓▓▓░░░░░]  GSSoC 2025 Contributions → open source
-[▓▓▓▓▓▓▓▓▓▓]  Barclays Internship Prep → Summer 2027
-```
 
 ---
 
